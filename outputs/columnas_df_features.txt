@@ -1,21 +1,21 @@
-diagnostics_Versions_PyRadiomics OK 
-diagnostics_Versions_Numpy OK 
-diagnostics_Versions_SimpleITK OK 
-diagnostics_Versions_PyWavelet OK 
-diagnostics_Versions_Python OK 
-diagnostics_Configuration_Settings OK 
-diagnostics_Configuration_EnabledImageTypes OK 
-diagnostics_Image-original_Hash OK 
+diagnostics_Versions_PyRadiomics NO 
+diagnostics_Versions_Numpy NO 
+diagnostics_Versions_SimpleITK NO 
+diagnostics_Versions_PyWavelet NO 
+diagnostics_Versions_Python NO 
+diagnostics_Configuration_Settings NO 
+diagnostics_Configuration_EnabledImageTypes NO 
+diagnostics_Image-original_Hash NO 
 diagnostics_Image-original_Dimensionality OK 
 diagnostics_Image-original_Spacing OK 
 diagnostics_Image-original_Size OK 
 diagnostics_Image-original_Mean OK 
 diagnostics_Image-original_Minimum OK 
 diagnostics_Image-original_Maximum OK 
-diagnostics_Mask-original_Hash OK 
+diagnostics_Mask-original_Hash NO 
 diagnostics_Mask-original_Spacing OK 
 diagnostics_Mask-original_Size OK 
-diagnostics_Mask-original_BoundingBox OK 
+diagnostics_Mask-original_BoundingBox NO 
 diagnostics_Mask-original_VoxelNum OK 
 diagnostics_Mask-original_VolumeNum OK 
 diagnostics_Mask-original_CenterOfMassIndex OK 
@@ -34,24 +34,6 @@ original_shape_Sphericity OK
 original_shape_SurfaceArea OK 
 original_shape_SurfaceVolumeRatio OK 
 original_shape_VoxelVolume OK 
-original_firstorder 2_10Percentile OK 
-original_firstorder 2_90Percentile OK 
-original_firstorder 2_Energy OK 
-original_firstorder 2_Entropy OK 
-original_firstorder 2_InterquartileRange OK 
-original_firstorder 2_Kurtosis OK 
-original_firstorder 2_Maximum OK 
-original_firstorder 2_MeanAbsoluteDeviation OK 
-original_firstorder 2_Mean OK 
-original_firstorder 2_Median OK 
-original_firstorder 2_Minimum OK 
-original_firstorder 2_Range OK 
-original_firstorder 2_RobustMeanAbsoluteDeviation OK 
-original_firstorder 2_RootMeanSquared OK 
-original_firstorder 2_Skewness OK 
-original_firstorder 2_TotalEnergy OK 
-original_firstorder 2_Uniformity OK 
-original_firstorder 2_Variance OK 
 original_firstorder_10Percentile OK 
 original_firstorder_90Percentile OK 
 original_firstorder_Energy OK 
@@ -70,30 +52,6 @@ original_firstorder_Skewness OK
 original_firstorder_TotalEnergy OK 
 original_firstorder_Uniformity OK 
 original_firstorder_Variance OK 
-original_glcm 2_Autocorrelation OK 
-original_glcm 2_ClusterProminence OK 
-original_glcm 2_ClusterShade OK 
-original_glcm 2_ClusterTendency OK 
-original_glcm 2_Contrast OK 
-original_glcm 2_Correlation OK 
-original_glcm 2_DifferenceAverage OK 
-original_glcm 2_DifferenceEntropy OK 
-original_glcm 2_DifferenceVariance OK 
-original_glcm 2_Id OK 
-original_glcm 2_Idm OK 
-original_glcm 2_Idmn OK 
-original_glcm 2_Idn OK 
-original_glcm 2_Imc1 OK 
-original_glcm 2_Imc2 OK 
-original_glcm 2_InverseVariance OK 
-original_glcm 2_JointAverage OK 
-original_glcm 2_JointEnergy OK 
-original_glcm 2_JointEntropy OK 
-original_glcm 2_MCC OK 
-original_glcm 2_MaximumProbability OK 
-original_glcm 2_SumAverage OK 
-original_glcm 2_SumEntropy OK 
-original_glcm 2_SumSquares OK 
 original_glcm_Autocorrelation OK 
 original_glcm_ClusterProminence OK 
 original_glcm_ClusterShade OK 
@@ -118,20 +76,6 @@ original_glcm_MaximumProbability OK
 original_glcm_SumAverage OK 
 original_glcm_SumEntropy OK 
 original_glcm_SumSquares OK 
-original_gldm 2_DependenceEntropy OK 
-original_gldm 2_DependenceNonUniformity OK 
-original_gldm 2_DependenceNonUniformityNormalized OK 
-original_gldm 2_DependenceVariance OK 
-original_gldm 2_GrayLevelNonUniformity OK 
-original_gldm 2_GrayLevelVariance OK 
-original_gldm 2_HighGrayLevelEmphasis OK 
-original_gldm 2_LargeDependenceEmphasis OK 
-original_gldm 2_LargeDependenceHighGrayLevelEmphasis OK 
-original_gldm 2_LargeDependenceLowGrayLevelEmphasis OK 
-original_gldm 2_LowGrayLevelEmphasis OK 
-original_gldm 2_SmallDependenceEmphasis OK 
-original_gldm 2_SmallDependenceHighGrayLevelEmphasis OK 
-original_gldm 2_SmallDependenceLowGrayLevelEmphasis OK 
 original_gldm_DependenceEntropy OK 
 original_gldm_DependenceNonUniformity OK 
 original_gldm_DependenceNonUniformityNormalized OK 
@@ -146,22 +90,6 @@ original_gldm_LowGrayLevelEmphasis OK
 original_gldm_SmallDependenceEmphasis OK 
 original_gldm_SmallDependenceHighGrayLevelEmphasis OK 
 original_gldm_SmallDependenceLowGrayLevelEmphasis OK 
-original_glrlm 2_GrayLevelNonUniformity OK 
-original_glrlm 2_GrayLevelNonUniformityNormalized OK 
-original_glrlm 2_GrayLevelVariance OK 
-original_glrlm 2_HighGrayLevelRunEmphasis OK 
-original_glrlm 2_LongRunEmphasis OK 
-original_glrlm 2_LongRunHighGrayLevelEmphasis OK 
-original_glrlm 2_LongRunLowGrayLevelEmphasis OK 
-original_glrlm 2_LowGrayLevelRunEmphasis OK 
-original_glrlm 2_RunEntropy OK 
-original_glrlm 2_RunLengthNonUniformity OK 
-original_glrlm 2_RunLengthNonUniformityNormalized OK 
-original_glrlm 2_RunPercentage OK 
-original_glrlm 2_RunVariance OK 
-original_glrlm 2_ShortRunEmphasis OK 
-original_glrlm 2_ShortRunHighGrayLevelEmphasis OK 
-original_glrlm 2_ShortRunLowGrayLevelEmphasis OK 
 original_glrlm_GrayLevelNonUniformity OK 
 original_glrlm_GrayLevelNonUniformityNormalized OK 
 original_glrlm_GrayLevelVariance OK 
@@ -178,22 +106,6 @@ original_glrlm_RunVariance OK
 original_glrlm_ShortRunEmphasis OK 
 original_glrlm_ShortRunHighGrayLevelEmphasis OK 
 original_glrlm_ShortRunLowGrayLevelEmphasis OK 
-original_glszm 2_GrayLevelNonUniformity OK 
-original_glszm 2_GrayLevelNonUniformityNormalized OK 
-original_glszm 2_GrayLevelVariance OK 
-original_glszm 2_HighGrayLevelZoneEmphasis OK 
-original_glszm 2_LargeAreaEmphasis OK 
-original_glszm 2_LargeAreaHighGrayLevelEmphasis OK 
-original_glszm 2_LargeAreaLowGrayLevelEmphasis OK 
-original_glszm 2_LowGrayLevelZoneEmphasis OK 
-original_glszm 2_SizeZoneNonUniformity OK 
-original_glszm 2_SizeZoneNonUniformityNormalized OK 
-original_glszm 2_SmallAreaEmphasis OK 
-original_glszm 2_SmallAreaHighGrayLevelEmphasis OK 
-original_glszm 2_SmallAreaLowGrayLevelEmphasis OK 
-original_glszm 2_ZoneEntropy OK 
-original_glszm 2_ZonePercentage OK 
-original_glszm 2_ZoneVariance OK 
 original_glszm_GrayLevelNonUniformity OK 
 original_glszm_GrayLevelNonUniformityNormalized OK 
 original_glszm_GrayLevelVariance OK 
@@ -210,11 +122,6 @@ original_glszm_SmallAreaLowGrayLevelEmphasis OK
 original_glszm_ZoneEntropy OK 
 original_glszm_ZonePercentage OK 
 original_glszm_ZoneVariance OK 
-original_ngtdm 2_Busyness OK 
-original_ngtdm 2_Coarseness OK 
-original_ngtdm 2_Complexity OK 
-original_ngtdm 2_Contrast OK 
-original_ngtdm 2_Strength OK 
 original_ngtdm_Busyness OK 
 original_ngtdm_Coarseness OK 
 original_ngtdm_Complexity OK 
