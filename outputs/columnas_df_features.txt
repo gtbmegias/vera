@@ -127,4 +127,4 @@ original_ngtdm_Coarseness OK
 original_ngtdm_Complexity NO 
 original_ngtdm_Contrast OK 
 original_ngtdm_Strength NO 
-Cancer OK 
+cancer OK 
