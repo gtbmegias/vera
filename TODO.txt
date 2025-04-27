@@ -1,2 +1,4 @@
 # Modificar los paths de escritura y lectura de los dfs. f"{DATA_PATH}/df"
-# 
+# Implementar lectura de results_icc para no tener que volver a calcular el ICC
+# Limpiar variables
+# Primeras ejecuciones de ML
