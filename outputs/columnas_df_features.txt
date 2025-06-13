@@ -1,10 +1,10 @@
-diagnostics_Versions_PyRadiomics
-diagnostics_Versions_Numpy
-diagnostics_Versions_SimpleITK
-diagnostics_Versions_PyWavelet
-diagnostics_Versions_Python
-diagnostics_Configuration_Settings
-diagnostics_Configuration_EnabledImageTypes
+diagnostics_Versions_PyRadiomics OK 
+diagnostics_Versions_Numpy OK 
+diagnostics_Versions_SimpleITK OK 
+diagnostics_Versions_PyWavelet OK 
+diagnostics_Versions_Python OK 
+diagnostics_Configuration_Settings OK 
+diagnostics_Configuration_EnabledImageTypes OK 
 diagnostics_Image-original_Hash OK 
 diagnostics_Image-original_Dimensionality OK 
 diagnostics_Image-original_Spacing OK 
@@ -127,5 +127,5 @@ original_ngtdm_Coarseness OK
 original_ngtdm_Complexity OK 
 original_ngtdm_Contrast OK 
 original_ngtdm_Strength OK 
-subject OK 
+cancer OK 
 method OK 
